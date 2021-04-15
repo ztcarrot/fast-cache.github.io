@@ -8,7 +8,7 @@
     <link href="/2021/04/15/markdown/"/>
     <url>/2021/04/15/markdown/</url>
     
-    <content type="html"><![CDATA[<p><a href="https://www.runoob.com/markdown/md-title.html">https://www.runoob.com/markdown/md-title.html</a></p>]]></content>
+    <content type="html"><![CDATA[<p>#一些链接</p><p>##markdown 教程<br><a href="https://www.runoob.com/markdown/md-title.html">https://www.runoob.com/markdown/md-title.html</a></p><p>##改主题<br><a href="https://hexo.fluid-dev.com/docs/guide/">https://hexo.fluid-dev.com/docs/guide/</a></p>]]></content>
     
     
     
